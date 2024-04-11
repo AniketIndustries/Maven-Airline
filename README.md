@@ -1,4 +1,3 @@
-#Maven Analytics - Airline Passengers Satisfaction Analysis
 Utilizing MS Excel, I conducted an in-depth analysis of airline passenger 
 satisfaction, evaluating service ratings across demographics such as 
 age groups and travel classes. The project involved dissecting insights 
